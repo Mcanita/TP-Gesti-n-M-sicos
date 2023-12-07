@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1701973728 source:c:\users\albad\desktop\proyectomusicos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<string>
+	"windows.h"
+	"rlutil.h"
+	"FuncionesGlobales.h"
+	"Fecha.h"
+	"Musico/Musico.h"
+	"Musico/ArchivoMusicos.h"
+	"Musico/FuncionesMusico.h"
+	"Genero/Genero.h"
+	"Genero/ArchivoGenero.h"
+	"Genero/FuncionesGenero.h"
+	"Instrumento/Instrumento.h"
+	"Instrumento/ArchivoInstrumento.h"
+	"Instrumento/FuncionesInstrumento.h"
+	"Pais/Pais.h"
+	"Pais/ArchivoPais.h"
+	"Pais/FuncionesPais.h"
+	"Reportes.h"
+	"Configuracion.h"
+	"Menu.h"
+
+1686934996 c:\users\albad\desktop\proyectomusicos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1701971877 c:\users\albad\desktop\proyectomusicos\funcionesglobales.h
+
+1701971809 c:\users\albad\desktop\proyectomusicos\fecha.h
+
+1701973647 c:\users\albad\desktop\proyectomusicos\musico\musico.h
+
+1701973221 c:\users\albad\desktop\proyectomusicos\musico\archivomusicos.h
+
+1701973327 c:\users\albad\desktop\proyectomusicos\musico\funcionesmusico.h
+
+1701970015 c:\users\albad\desktop\proyectomusicos\genero\genero.h
+
+1701970037 c:\users\albad\desktop\proyectomusicos\genero\archivogenero.h
+
+1701970114 c:\users\albad\desktop\proyectomusicos\genero\funcionesgenero.h
+
+1701970379 c:\users\albad\desktop\proyectomusicos\instrumento\instrumento.h
+
+1701970379 c:\users\albad\desktop\proyectomusicos\instrumento\archivoinstrumento.h
+
+1701970379 c:\users\albad\desktop\proyectomusicos\instrumento\funcionesinstrumento.h
+
+1701970583 c:\users\albad\desktop\proyectomusicos\pais\pais.h
+
+1701970583 c:\users\albad\desktop\proyectomusicos\pais\archivopais.h
+
+1701970583 c:\users\albad\desktop\proyectomusicos\pais\funcionespais.h
+
+1701973387 c:\users\albad\desktop\proyectomusicos\reportes.h
+
+1701973469 c:\users\albad\desktop\proyectomusicos\configuracion.h
+
+1701973488 c:\users\albad\desktop\proyectomusicos\menu.h
+
